@@ -16,3 +16,7 @@ To have conflict with remote branch
 This will cause conflict merge
 
 This is for update tag
+
+## getting started
+
+Just `clone` the repository.
